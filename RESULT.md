@@ -6,3 +6,4 @@ Therefore, we first lift data points using a kernel function regardless of the c
 I used radial basis kernel defined as <img src="https://render.githubusercontent.com/render/math?math=e^\frac{||X_i - x_j||}{1}">. Then, after setting the kernel, I solved the dual SVM problem which is a quadratic programing problem using “cvxopt” optimization solver implemented in Python. The summary of steps to solve dual SVM and reformulating its objective function matched with “cvxopt” solver format is defined as follows. For the detail of mathematical notations see <https://xavierbourretsicotte.github.io/SVM_implementation.html>.
 
 ![Formulation](https://user-images.githubusercontent.com/43753085/104140874-48a73d00-5379-11eb-931c-0da637f4f794.png)
+
