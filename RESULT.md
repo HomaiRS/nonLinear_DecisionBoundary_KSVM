@@ -7,3 +7,7 @@ I used radial basis kernel defined as <img src="https://render.githubusercontent
 
 <img width="702" alt="Formulation2" src="https://user-images.githubusercontent.com/43753085/104140975-f74b7d80-5379-11eb-81ba-669e413a4c01.png">
 
+The dual SVM in most cases using even 300 data points is solved in several seconds and it is pretty fast and efficient. In almost all cases that I ran, problem converges to the optima solutions (𝛼") in less than 15 iterations. I also used polynomial kernel (as indicated in the appendix in my code). However, I got the best decision boundaries using radial basis kernel. Thus, I only included the results in which I used for RBF kernel. In Figure 1, green crosses are input patterns with desired class 1, and the purple diamonds are the input patterns with desired class −1. The decision boundary H (the blue line) can perfectly separate the two classes that were otherwise not linearly separable. Support vectors marked by circles. As expected, there are no patterns in
+between the “guard lines” H+ and H−.
+
+<img width="959" alt="allFig1" src="https://user-images.githubusercontent.com/43753085/104141034-3679ce80-537a-11eb-965f-de6ce1510e09.png">
