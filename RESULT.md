@@ -16,3 +16,6 @@ between the “guard lines” H+ and H−.
 
 <img width="963" alt="allFig2" src="https://user-images.githubusercontent.com/43753085/104141088-86589580-537a-11eb-8fd4-918997952128.png">
 
+---
+
+<img width="985" alt="allFig3" src="https://user-images.githubusercontent.com/43753085/104141187-1b5b8e80-537b-11eb-8022-f45cc6acaee0.png">
