@@ -1,4 +1,4 @@
-# Classification using SVM
+# Classification using Kernel Support Vector Machine (KSVM)
 
 In this computer project, we will design an SVM, and we use an existing library for solving the quadratic optimization problem that is associated with the SVM. Other than that, I do not use any existing machine learning/SVM library and I implemented the algorithm by my own. 
 
