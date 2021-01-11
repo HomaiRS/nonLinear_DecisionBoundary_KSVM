@@ -8,6 +8,6 @@ The region where  <img src="https://render.githubusercontent.com/render/math?mat
 <img width="828" alt="QuestionFig" src="https://user-images.githubusercontent.com/43753085/104142014-3203e480-537f-11eb-8d5d-1f60802ec6b0.png">
 
 
-I used SVM and computed the discriminant function <img src="https://render.githubusercontent.com/render/math?math=g(x) = \sum_{i=1}^{\tau_s} \alpha_id_iK(x_i,x)">+θ where <img src="https://render.githubusercontent.com/render/math?math=\alpha_i"> are some positive constants, <img src="https://render.githubusercontent.com/render/math?math=\Tau_s">
+I used SVM and computed the discriminant function <img src="https://render.githubusercontent.com/render/math?math=g(x) = \sum_{i=1}^{\tau_s} \alpha_id_iK(x_i,x)">+θ where <img src="https://render.githubusercontent.com/render/math?math=\alpha_i"> are some positive constants, <img src="https://render.githubusercontent.com/render/math?math=\tau_s"> is the set of the indices of support vectors, and <img src="https://render.githubusercontent.com/render/math?math=\theta"> 
 
 , i=1 where αi are some positive constants, Is is the set of the indices of support vectors, and θ is the optimal bias. 
