@@ -11,3 +11,5 @@ The dual SVM in most cases using even 300 data points is solved in several secon
 between the “guard lines” H+ and H−.
 
 <img width="959" alt="allFig1" src="https://user-images.githubusercontent.com/43753085/104141034-3679ce80-537a-11eb-965f-de6ce1510e09.png">
+
+<img width="969" alt="allFig2" src="https://user-images.githubusercontent.com/43753085/104141063-5dd09b80-537a-11eb-884c-faf63dc905ec.png">
