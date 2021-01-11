@@ -7,6 +7,6 @@ I used radial basis kernel defined as <img src="https://render.githubusercontent
 
 
 
-1. Created ```P``` matrix where ![equation](http://latex.codecogs.com/gif.latex?Concentration%3D%5C𝐻_ij): coded as an outer product of ```d``` and kernel
+1. Created ```P``` matrix where ![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1) : coded as an outer product of ```d``` and kernel
 2. Match the dualformulationwiththesolverformulation.(indicatedinequations1,2,3)
-= 𝑑_i 𝑑_j 𝐾(𝑥_i, 𝑥_j)
+𝐻_ij  = 𝑑_i 𝑑_j 𝐾(𝑥_i, 𝑥_j)
