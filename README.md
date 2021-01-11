@@ -9,6 +9,6 @@ The region where  <img src="https://render.githubusercontent.com/render/math?mat
 
 
 I used SVM and computed the discriminant function <img src="https://render.githubusercontent.com/render/math?math=g(x) = \sum_{i=1}^{\tau_s} \alpha_id_iK(x_i,x)"> 
-+ <img src="https://render.githubusercontent.com/render/math?math= \theta">
++ <img src="https://render.githubusercontent.com/render/math?math= \alpha"> 
 
 , i=1 where αi are some positive constants, Is is the set of the indices of support vectors, and θ is the optimal bias. 
